@@ -1,5 +1,6 @@
 # Educational System Relatedness Predictor
-***Requires Python 3+***
+* ***Requires Python 3+***
+* ***Uncompress the DataFiles.tar.gz and make sure "codes.csv", "defn.csv", and "data.csv" are all in a folder called DataFiles in the same relative directory as "Predictor.py" and "DataStats.py" before running them***
 
 ## DataStats
 This program parses the data file and creates a graph of the number of data points available to each country. The x axis is country (by country code), and the y axis is number of available data points in the dataset.
