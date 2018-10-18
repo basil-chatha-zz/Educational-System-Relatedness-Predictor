@@ -216,7 +216,7 @@ def main():
     run = 1
     while run:
         country = input('Please input country code: ').upper()
-        print(y.KNN(country))IN
+        print(y.KNN(country))
         cont = input('Continue? ').lower()
         if not re.search('tru[e]*',cont):
             run = 0
