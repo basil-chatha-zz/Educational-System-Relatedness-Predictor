@@ -1,5 +1,7 @@
 # Educational System Relatedness Predictor
-** Requires Python 3+ **
+<aside class="notice">
+Requires Python 3+
+</aside>
 
 ## DataStats
 This program parses the data file and creates a graph of the number of data points available to each country. The x axis is country (by country code), and the y axis is number of available data points in the dataset.
